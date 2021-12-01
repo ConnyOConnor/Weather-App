@@ -1,0 +1,50 @@
+form {
+    width: 100%;
+    margin: 0 0 20px 0;
+}
+
+h2 {
+    margin: 0 0 30px 0;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+h5 {
+    text-align: center;
+    font-size: 30px;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.weather-app {
+    margin: 50px auto;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 20px;
+    max-width: 700px;
+}
+
+.weather-today {
+    font-size: 30px;
+}
+
+.weather-icon {
+    margin: 0 30px;
+}
+
+
+.card {
+    display: inline-block;
+    margin: 50px 0;
+}
+
+.weekday {
+    text-align: center;
+}
+
+.temperature {
+    text-align: center;
+}
