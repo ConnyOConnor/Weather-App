@@ -35,7 +35,6 @@ ul {
     margin: 0 30px;
 }
 
-
 .card {
     display: inline-block;
     margin: 50px 0;
@@ -46,5 +45,9 @@ ul {
 }
 
 .temperature {
+    text-align: center;
+}
+
+.open-source {
     text-align: center;
 }
